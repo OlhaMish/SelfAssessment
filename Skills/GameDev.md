@@ -21,21 +21,21 @@
 
 - Graphics and Rendering
   - 2D graphics
-  - 3D graphics
-  - Shaders
-  - Lighting
-  - Textures and materials
+  - 3D graphics 🖐️ used
+  - Shaders 🖐️ used
+  - Lighting 🖐️ used
+  - Textures and materials 🖐️ used
   - Animation 
-  - Particle systems
+  - Particle systems 🖐️ used
 
 - Physics and Simulation
-  - Collision detection
-  - Physics engines
-  - Particle physics
+  - Collision detection 🖐️ used
+  - Physics engines 🖐️ used
+  - Particle physics 🖐️ used
 
 - Game Programming
-  - Game loops
-  - Input handling
+  - Game loops 🖐️ used
+  - Input handling 🖐️️ used
   - State machines 
   - Game AI 
   - Pathfinding 
@@ -47,9 +47,9 @@
   - 3D audio 
 
 - Game Development Tools
-  - Game engines (Unity, Unreal Engine, etc.)
+  - Game engines (Unity, Unreal Engine, etc.) 🖐️️ used
   - Version control systems (Git)
-  - Integrated Development Environments (IDEs)
+  - Integrated Development Environments (IDEs) 🖐️️ used
   - Debugging tools
 
 - Game Testing
@@ -59,17 +59,17 @@
   - Quality assurance
 
 - C# Language Fundamentals
-  - Variables and data types
-  - Control flow (if, switch, loops)
-  - Functions and methods
+  - Variables and data types 🖐️️ used
+  - Control flow (if, switch, loops) 🖐️️ used
+  - Functions and methods 🖐️ used
   - Classes and objects 
   - Inheritance and polymorphism 
   - Delegates and events 
 
 - Unity Basics
-  - GameObjects and Components
+  - GameObjects and Components 🖐️ used
   - Scenes and Prefabs 
-  - Physics in Unity
+  - Physics in Unity 🖐️ used
   - Unity UI system 
   - Input handling in Unity 
   - Coroutines in Unity 
