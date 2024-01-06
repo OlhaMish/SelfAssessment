@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
+  - Procedural programming 🖐️ used
+  - Imperative programming 🖐️ used
+  - Structured programming 🖐️ used
+  - Non-structured programming 🔬 researched 
+  - Functional programming 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming 🖐️ used
   - Object-based programming
-  - Generic programming
+  - Generic programming 👂 heard 
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Asyncronous programming 🎓 known
+  - Parallel programming 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming 👂 heard
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
+  - constructor 🖐️ used
+  - new 🖐️ used
+  - Static method 🖐️ used
+  - Method 🖐️ used
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Getters, Setters 🖐️ used
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
+  - Field declarations 🖐️ used
+  - Inheritance 🖐️ used
+  - Parent class 🖐️ used
+  - Polymorphism 🖐️ used
+  - Abstract class 🖐️ used
+  - Interface 🖐️ used
+  - Encapsulation 🖐️ used
   - Hidden class
   - Object form
-  - instance
+  - instance 🖐️ used
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
+  - Singleton 🖐️ used
+  - Factory Method 🖐️ used
+  - Abstract Factory 🖐️ used
+  - Adapter 👂 heard
+  - Observer 🔬 researched
+  - Strategy 🖐️ used
+  - Facade 🔬 researched
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator 🔬 researched
   - State
-  - Bridge
-  - Builder
+  - Bridge 👂 heard
+  - Builder 🔬 researched
   - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
+  - Composite 
+  - Decorator 👂 heard
+  - Flyweight 👂 heard
   - Mediator
   - Memento
   - Template Method
-  - Visitor
+  - Visitor 👂 heard

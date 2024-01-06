@@ -1,79 +1,79 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object 🙋 explained
+  - this 🙋 explained 
+  - arrow function 🖐️ used
   - async function
-  - call
+  - call 
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof 🖐️ used
   - destructuring
-  - generator
-  - iterator
+  - generator 🖐️ used
+  - iterator 🖐️ used
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global 🙋 explained
   - globalThis
-  - window
-  - getters and setters
+  - window 
+  - getters and setters 🖐️ used
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
+  - prototype 
+  - equality operators 🖐️ used 
+  - logical operators 🖐️ used 
+  - bitwise operators 🖐️ used
+  - ternary operator 🖐️ used
+  - void 🖐️ used
+  - yield 🔬 researched 
+  - await 🔬 researched 
   - template literal
   - strict mode
-  - delete
-  - in
+  - delete 🙋 explained
+  - in 🙋 explained
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 🎓 known
+  - for await 
+  - throw 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 🖐️ used
+  - export 🖐️ used
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch 🖐️ used
+  - switch 🖐️ used
+  - class 🖐️ used
   - new Error
-  - with
+  - with 🖐️ used
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration 🙋 explained
+  - function expression 🙋 explained
+  - return 🙋 explained
+  - default parameters 🙋 explained
   - functional object
 - Data structures
-  - Array
+  - Array 🙋 explained
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
+  - Map 🖐️ used
+  - Set 🎓 known
   - undefined
-  - null
+  - null 🎓 known
   - Proxy
   - weak collections
   - timers
@@ -84,6 +84,6 @@
 - Infrastructure
   - V8
   - Node.js
-  - npm
+  - npm 🖐️ used
   - prettier
   - MDN

@@ -67,11 +67,11 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
-  - GoF patterns
+  - SOLID 🖐️ used
+  - GoF patterns 🎓 known
   - Distributed systems
   - Highload applications
-  - Clean architecture
+  - Clean architecture 🎓 known
   - DDD
   - Message Queue
   - CQS
@@ -85,8 +85,8 @@
   - Leaking abstractions
 - Network
   - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
+  - Endpoint throttling 
+  - HTTP(S) 🖐️ used
   - TCP/SSL
   - UDP
   - TLS
@@ -94,18 +94,18 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 🖐️ used
   - RPC
-  - Routing
+  - Routing 🖐️ used
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 🔬 researched
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection 🎓 known
   - noDelay
   - keep-alive
   - ALPN
@@ -116,7 +116,7 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing 🎓 known
   - CI/CD
   - Readable
   - Writable
