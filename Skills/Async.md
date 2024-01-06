@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop 🖐️ used
+  - try..catch 🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -20,7 +20,7 @@
   - Parallel programming
   - Actor Model
   - Thread
-  - Process
+  - Process 🎓 known
 - Async contracts
   - Callbacks
   - Callback-last-error-first
@@ -36,7 +36,7 @@
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream 🖐️ used
   - Chain of responsibility
   - Middleware
   - Locks
