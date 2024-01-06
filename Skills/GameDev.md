@@ -1,31 +1,31 @@
 - Design Patterns in Game Development
-  - Singleton pattern 
-  - Factory pattern
-  - Observer pattern
-  - Command pattern
-  - State pattern
-  - Strategy pattern 
-  - Decorator pattern 
-  - Composite pattern
-  - MVC (Model-View-Controller) pattern
-  - MVVM (Model-View-ViewModel) pattern 
+  - Singleton pattern 🖐️ used
+  - Factory pattern 🖐 used
+  - Observer pattern 🎓 known
+  - Command pattern 👂 heard
+  - State pattern 👂 heard
+  - Strategy pattern 🖐️ used
+  - Decorator pattern 👂 heard
+  - Composite pattern 👂 heard
+  - MVC (Model-View-Controller) pattern 👂 heard
+  - MVVM (Model-View-ViewModel) pattern 👂 heard
 
 - Game Design Principles
-  - Player experience
-  - Game mechanics 
-  - Storytelling 
-  - Level design
-  - Balancing 
-  - User interface (UI) design 
-  - User experience (UX) design 
+  - Player experience 🖐️ used
+  - Game mechanics 🖐️ used
+  - Storytelling 🖐️ used
+  - Level design 🖐️ used
+  - Balancing 🖐️ used
+  - User interface (UI) design 🖐️ used
+  - User experience (UX) design 🖐️ used
 
 - Graphics and Rendering
-  - 2D graphics
+  - 2D graphics 🖐️ used
   - 3D graphics 🖐️ used
   - Shaders 🖐️ used
   - Lighting 🖐️ used
   - Textures and materials 🖐️ used
-  - Animation 
+  - Animation 🖐️ used
   - Particle systems 🖐️ used
 
 - Physics and Simulation
@@ -36,46 +36,46 @@
 - Game Programming
   - Game loops 🖐️ used
   - Input handling 🖐️️ used
-  - State machines 
-  - Game AI 
-  - Pathfinding 
+  - State machines 🖐️️ used
+  - Game AI 🎓 known
+  - Pathfinding 👂 heard
 
 - Sound and Music
-  - Audio engines 
-  - Sound effects 
-  - Music integration 
-  - 3D audio 
+  - Audio engines 🖐️️ used
+  - Sound effects 🖐️️ used
+  - Music integration 🖐️️ used
+  - 3D audio 🖐️️ used
 
 - Game Development Tools
   - Game engines (Unity, Unreal Engine, etc.) 🖐️️ used
-  - Version control systems (Git)
+  - Version control systems (Git) 🖐️️ used
   - Integrated Development Environments (IDEs) 🖐️️ used
-  - Debugging tools
+  - Debugging tools 🖐️️ used
 
 - Game Testing
-  - Unit testing 
-  - Integration testing 
-  - User testing 
-  - Quality assurance
+  - Unit testing 👂 heard
+  - Integration testing 👂 heard
+  - User testing 👂 heard
+  - Quality assurance 👂 heard
 
 - C# Language Fundamentals
   - Variables and data types 🖐️️ used
   - Control flow (if, switch, loops) 🖐️️ used
   - Functions and methods 🖐️ used
-  - Classes and objects 
-  - Inheritance and polymorphism 
-  - Delegates and events 
+  - Classes and objects 🖐️ used
+  - Inheritance and polymorphism 🖐️ used
+  - Delegates and events 🖐️ used
 
 - Unity Basics
   - GameObjects and Components 🖐️ used
-  - Scenes and Prefabs 
+  - Scenes and Prefabs 🖐️ used
   - Physics in Unity 🖐️ used
-  - Unity UI system 
-  - Input handling in Unity 
-  - Coroutines in Unity 
+  - Unity UI system 🖐️ used
+  - Input handling in Unity 🖐️ used
+  - Coroutines in Unity 🖐️ used
 
 - Unity Advanced Concepts
-  - ScriptableObjects 
-  - Unity Events 
-  - Serialization in Unity 
-  - AssetBundles 
+  - ScriptableObjects 🖐️ used
+  - Unity Events 🖐️ used
+  - Serialization in Unity 🖐️ used
+  - AssetBundles 👂 heard

@@ -8,13 +8,13 @@
   - scalar 🎓 known
   - literal
   - expression 🙋 explained
-  - heap 🎓 known
+  - heap 🙋 explained
   - function 🙋 explained
   - procedure 🎓 known
   - method 🙋 explained
   - class 🙋 explained
   - prototype 
-  - event 🎓 known
+  - event 🙋 explained
   - type 🙋 explained
   - primitive types 🖐️ used
   - reference types 🖐️ used
@@ -25,23 +25,23 @@
   - loops 🙋 explained
   - assignment 🖐️ used
   - regular expression 🖐️ used
-  - interface
+  - interface 🔬 researched
   - contract
-  - module
-  - call stack
+  - module 👂 heard
+  - call stack 🎓 known
 - Functions
   - signature 🔬 researched
   - argument 🔬 researched
   - parameter 🎓 known
   - pure function 🎓 known
-  - lambda expression
+  - lambda expression 🎓 known
   - side effects 🎓 known
   - closure
   - partial application
   - curry
   - higher order
   - recursion 🔬 researched
-  - callback
+  - callback 🎓 known
   - listener
   - compose
   - pipe 
@@ -51,23 +51,23 @@
   - monad
   - monoid
   - generator 🎓 known
-  - coroutine
+  - coroutine 🔬 researched
 - Data structures
   - array 🙋 explained 
   - structure 🙋 explained 
   - record
-  - enum
-  - instance 👂 heard 
+  - enum 🙋 explained 
+  - instance 🙋 explained 
   - object 🙋 explained 
   - class 🙋 explained 
   - collection 🎓 known
-  - set 👂 heard 
+  - set 🎓 known
   - hash table 🎓 known
   - linked list 🖐️ used
   - doubly list 🖐️ used
   - unrolled list
   - circular list
-  - queue
+  - queue 👂 heard 
   - stack 🎓 known
   - deque 
   - tree 🔬 researched
@@ -83,10 +83,10 @@
   - linter
   - polyfill
   - debugger 🔬 researched
-  - garbage collection 👂 heard 
+  - garbage collection 🔬 researched
   - refactoring 🔬 researched
   - code review 🎓 known
-  - antipatterns 👂 heard 
+  - antipatterns 🔬 researched
   - paradigm 🎓 known
   - algorithm 🔬 researched
   - magic numbers 🎓 known
@@ -94,13 +94,13 @@
   - complexity 🎓 known
   - decomposition  🎓 known
   - spaghetti 🎓 known
-  - silver bullet 
-  - not invented here
-  - dead code
+  - silver bullet 👂 heard
+  - not invented here 👂 heard
+  - dead code 🎓 known
   - unreachable code 🎓 known
   - duplicate code 🎓 known
   - exception 🎓 known
   - return early 🎓 known
-  - unittest
-  - git 🎓 known
-  - github 🎓 known
+  - unittest 👂 heard
+  - git 🔬 researched
+  - github 🔬 researched
