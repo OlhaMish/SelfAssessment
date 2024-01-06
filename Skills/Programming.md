@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
+  - value 🎓 known
+  - identifier 🎓 known
+  - variable 🎓 known
+  - constant 🙋 explained
+  - scalar 🎓 known
   - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
+  - expression 🙋 explained
+  - heap 🎓 known
+  - function 🙋 explained
+  - procedure 🎓 known
+  - method 🙋 explained
+  - class 🙋 explained
+  - prototype 
+  - event 🎓 known
+  - type 🙋 explained
+  - primitive types 🖐️ used
+  - reference types 🖐️ used
+  - flag 🎓 known
   - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
+  - code block 🖐️ used
+  - conditions 🖐️ used
+  - loops 🙋 explained
+  - assignment 🖐️ used
+  - regular expression 🖐️ used
   - interface
   - contract
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
+  - signature 🔬 researched
+  - argument 🔬 researched
+  - parameter 🎓 known
+  - pure function 🎓 known
   - lambda expression
-  - side effects
+  - side effects 🎓 known
   - closure
   - partial application
   - curry
   - higher order
-  - recursion
+  - recursion 🔬 researched
   - callback
   - listener
   - compose
-  - pipe
+  - pipe 
   - memoize
   - wrapper
   - functor
   - monad
   - monoid
-  - generator
+  - generator 🎓 known
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array 🙋 explained 
+  - structure 🙋 explained 
   - record
   - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
+  - instance 👂 heard 
+  - object 🙋 explained 
+  - class 🙋 explained 
+  - collection 🎓 known
+  - set 👂 heard 
+  - hash table 🎓 known
+  - linked list 🖐️ used
+  - doubly list 🖐️ used
   - unrolled list
   - circular list
   - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - stack 🎓 known
+  - deque 
+  - tree 🔬 researched
+  - graph 🔬 researched
+  - iterator 🎓 known
+  - mutable state 🎓 known
+  - immutable state 🎓 known
+  - serialization 🎓 known
+  - string parsing 🎓 known
 - Process & style
-  - compiler
+  - compiler 🔬 researched
   - transpiler
   - linter
   - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
+  - debugger 🔬 researched
+  - garbage collection 👂 heard 
+  - refactoring 🔬 researched
+  - code review 🎓 known
+  - antipatterns 👂 heard 
+  - paradigm 🎓 known
+  - algorithm 🔬 researched
+  - magic numbers 🎓 known
+  - hardcode 🎓 known
+  - complexity 🎓 known
+  - decomposition  🎓 known
+  - spaghetti 🎓 known
+  - silver bullet 
   - not invented here
   - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
+  - unreachable code 🎓 known
+  - duplicate code 🎓 known
+  - exception 🎓 known
+  - return early 🎓 known
   - unittest
-  - git
-  - github
+  - git 🎓 known
+  - github 🎓 known

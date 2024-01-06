@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID 🎓 known
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -85,14 +85,14 @@
   - Leaking abstractions
 - Network
   - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
+  - Endpoint throttling 
+  - HTTP(S) 🎓 known
   - TCP/SSL
   - UDP
   - TLS
   - Websocket
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) 🎓 known
   - Long polling
   - REST
   - RPC
@@ -102,7 +102,7 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 🔬 researched
   - Fetch API
   - IncomingMessage
   - SQL injection

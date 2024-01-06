@@ -1,79 +1,79 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object 🙋 explained
+  - this 🙋 explained 
   - arrow function
   - async function
-  - call
+  - call 
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof 🎓 known
   - destructuring
-  - generator
-  - iterator
+  - generator 🖐️ used
+  - iterator 🖐️ used
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global 🙋 explained
   - globalThis
-  - window
-  - getters and setters
+  - window 
+  - getters and setters 🖐️ used
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
+  - prototype 
+  - equality operators 🖐️ used 
+  - logical operators 🖐️ used 
+  - bitwise operators 🖐️ used
+  - ternary operator 🖐️ used
+  - void 🖐️ used
+  - yield 🔬 researched 
   - await
   - template literal
   - strict mode
-  - delete
+  - delete 🙋 explained
   - in
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
   - for..in
   - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - for await 
+  - throw 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 🖐️ used
+  - export 🖐️ used
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch 🖐️ used
+  - switch 🖐️ used
+  - class 🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration 🙋 explained
+  - function expression 🙋 explained
+  - return 🙋 explained
+  - default parameters 🙋 explained
   - functional object
 - Data structures
-  - Array
+  - Array 🙋 explained
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
+  - Map 🎓 known
+  - Set 🎓 known
   - undefined
-  - null
+  - null 🎓 known
   - Proxy
   - weak collections
   - timers
