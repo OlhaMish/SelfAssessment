@@ -3,7 +3,7 @@
 - Language
   - Object 🙋 explained
   - this 🙋 explained 
-  - arrow function
+  - arrow function 🖐️ used
   - async function
   - call 
   - bind
@@ -11,7 +11,7 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof 🎓 known
+  - typeof 🖐️ used
   - destructuring
   - generator 🖐️ used
   - iterator 🖐️ used
@@ -32,11 +32,11 @@
   - ternary operator 🖐️ used
   - void 🖐️ used
   - yield 🔬 researched 
-  - await
+  - await 🔬 researched 
   - template literal
   - strict mode
   - delete 🙋 explained
-  - in
+  - in 🙋 explained
   - super
   - Symbol
   - Reflect
@@ -45,8 +45,8 @@
   - while 🖐️ used
   - do..while 🖐️ used
   - for 🖐️ used
-  - for..in
-  - for..of
+  - for..in 🖐️ used
+  - for..of 🎓 known
   - for await 
   - throw 🖐️ used
   - break 🖐️ used
@@ -58,7 +58,7 @@
   - switch 🖐️ used
   - class 🖐️ used
   - new Error
-  - with
+  - with 🖐️ used
 - Functions
   - function declaration 🙋 explained
   - function expression 🙋 explained
@@ -70,7 +70,7 @@
   - mixin
   - extend
   - typed arrays
-  - Map 🎓 known
+  - Map 🖐️ used
   - Set 🎓 known
   - undefined
   - null 🎓 known
@@ -84,6 +84,6 @@
 - Infrastructure
   - V8
   - Node.js
-  - npm
+  - npm 🖐️ used
   - prettier
   - MDN
