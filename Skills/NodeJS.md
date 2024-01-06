@@ -92,7 +92,7 @@
   - TLS
   - Websocket
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) 🎓 known
   - Long polling
   - REST 🖐️ used
   - RPC
