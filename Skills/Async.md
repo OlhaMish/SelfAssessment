@@ -5,7 +5,7 @@
   - try..catch 🖐️ used
   - Non-blocking
   - Async I/O
-  - Thread pool 🎓 known
+  - Thread pool
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -19,25 +19,25 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread 🖐️ used
+  - Thread
   - Process 🎓 known
 - Async contracts
-  - Callbacks 🖐️ used
+  - Callbacks
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await 🖐️ used
+  - Async/await
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
   - Event
-  - Coroutine 🖐️ used
+  - Coroutine
   - Goroutine
   - Signal
   - Stream 🖐️ used
-  - Chain of responsibility 🎓 known
+  - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
@@ -48,7 +48,7 @@
   - async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer 🎓 known
+  - Observable/Observer
   - Readable
   - Writable
   - Transform
@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process 🎓 known
+  - child_process
   - worker_threads
   - Atomics
   - High resolution clock
